@@ -4,4 +4,4 @@
 
 ## Running
 
-This project has been set up using git@github.com:mgh35/cookiecutter-lab-jupyter.git. Details on running it there.
+This project has been set up using https://github.com/mgh35/cookiecutter-lab-jupyter. See there for details on running it.
