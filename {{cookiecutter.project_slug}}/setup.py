@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="{{cookiecutter.project_name}}",
+    name="{{cookiecutter.project_slug}}",
     version="0.0.1",
     author="{{cookiecutter.full_name}}",
     description="{{cookiecutter.project_description}}",
