@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 ./make-env.sh
 source .venv/bin/activate
