@@ -7,4 +7,5 @@ pip install -r requirements-lock.txt
 
 python setup.py develop
 
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
 jupyter lab ./notebooks
